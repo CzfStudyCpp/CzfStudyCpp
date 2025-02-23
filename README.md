@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-<!--
-**CzfStudyCpp/CzfStudyCpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hello, my name is Chen Zhifu, and I am a software engineering undergraduate at South China University of Technology.
 
 ### Contact Information
@@ -12,3 +8,8 @@ Hello, my name is Chen Zhifu, and I am a software engineering undergraduate at S
 - 📧 Personal Email: [czfforbest@outlook.com](mailto:czfforbest@outlook.com)
 
 ### My Projects
+
+
+<!--
+**CzfStudyCpp/CzfStudyCpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
