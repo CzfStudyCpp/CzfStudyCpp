@@ -12,6 +12,8 @@ Hello, my name is Chen Zhifu, and I am a software engineering undergraduate at S
   - 🔹 [案例管理系统与任务发布平台](https://github.com/CzfStudyCpp/CaseManagementSystem): 案例管理系统，用户注册受管理，企业用户可以发布案例并邀请开发者协同开发的系统
   - 🔹 [图乐直播系统](https://github.com/CzfStudyCpp/tlliveAPP): java微服务架构实现类抖音的实时流媒体播放平台
   - 🔹 [问卷调查系统](https://github.com/CzfStudyCpp/1quiestionnaire1): 问卷调查系统
+### My Knowledge Base
+   - 🔹 [个人知识库（飞书）](https://ncntx1jig03i.feishu.cn/wiki/space/7476383707927117826?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home):Personal Knowledge Base by feishu
 <!--
 **CzfStudyCpp/CzfStudyCpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
