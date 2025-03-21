@@ -3,7 +3,7 @@ Hello, my name is Chen Zhifu, and I am a software engineering undergraduate at S
 
 ### Contact Information
 - 📞 Phone: +8619047109270
-- 📧 School Email: [sestriver@mail.scut.edu.cn](mailto:sestriver@mail.scut.edu.cn)
+- 📧 School work Email: [sestriver@mail.scut.edu.cn](mailto:sestriver@mail.scut.edu.cn)
 - 📧 QQ Email: [2018249814@qq.com](mailto:2018249814@qq.com)
 - 📧 Personal Email: [czfforbest@outlook.com](mailto:czfforbest@outlook.com)
 
