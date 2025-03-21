@@ -13,7 +13,8 @@ Hello, my name is Chen Zhifu, and I am a software engineering undergraduate at S
   - 🔹 [图乐直播系统](https://github.com/CzfStudyCpp/tlliveAPP): java微服务架构实现类抖音的实时流媒体播放平台
   - 🔹 [共享单车系统](https://github.com/CzfStudyCpp/shared_bike): 高并发共享单车系统--服务端
 ### My Knowledge Base
-   - 🔹 [Sunny(CZF)的知识库](https://ncntx1jig03i.feishu.cn/wiki/space/7476383707927117826?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home):Personal Knowledge Base by feishu
+   - 🔹 [Sunny(CZF)的知识库](https://ncntx1jig03i.feishu.cn/wiki/space/7476383707927117826?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home):Personal Knowledge Base by ChenZhiFu in feishu
+   - 🔹 [操作系统以及网络编程学习编码](https://github.com/CzfStudyCpp/OS_Study_Code):theC/C++ code to achive the OS and Network programming 
 <!--
 **CzfStudyCpp/CzfStudyCpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
